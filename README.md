@@ -2,6 +2,8 @@
 
 A simple web browser extension for Freenet, currently built to work on Chrome.
 
+![Screenshot](/screenshots/screenshot.jpg?raw=true "Freenet extension screenshot")
+
 ###Features
 
 * Displays a small Freenet logo in the URL bar when the current page is a Freenet page
