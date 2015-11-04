@@ -1,0 +1,21 @@
+{
+  "name": "Freenet Extension",
+  "version": "0.1",
+  "description": "Displays a small Freenet logo in the URL bar when the current page is a Freenet page",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "page_action" :
+  {
+    "default_icon" : "Bunny-155.png",
+    "default_title" : "Freenet"
+  },
+  "permissions" : [
+    "declarativeContent"
+  ],
+  "icons" : {
+    "155" : "Bunny-155.png"
+  },
+  "manifest_version": 2
+}
